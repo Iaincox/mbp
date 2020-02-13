@@ -1,0 +1,20 @@
+*~
+pkg/*
+*.html
+*.exe
+_book
+*.epub
+*.pdf
+.DS_Store
+.gitignore
+.vscode
+.git
+/fa/working
+Gopkg.lock
+Gopkg.toml
+*.xml
+*.iml
+
+# Folders
+.idea/
+vendor/
